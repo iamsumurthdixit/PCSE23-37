@@ -1,0 +1,8 @@
+1. install python 3.11
+2. install pip
+3. in command prompt, write the following queries: 
+	3a. pip install cv2
+	3b. pip install mediapipe
+	3c. pip install tensorflow
+4. record a mp4 / 3gp video and name it as input and save it in the same folder
+5. run the source code to generate the output.mp4 video
