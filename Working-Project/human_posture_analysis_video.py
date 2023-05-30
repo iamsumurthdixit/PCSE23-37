@@ -20,7 +20,6 @@ def findAngle(x1, y1, x2, y2):
 
 """
 Function to send alert. Use this function to send alert when bad posture detected.
-Feel free to get creative and customize as per your convenience.
 """
 
 
