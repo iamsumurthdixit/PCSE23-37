@@ -3,6 +3,9 @@ Deep Learning based Yoga-pose  Estimation for Dynamically Varying  Poses (Final
 
 
 Sumurth Dixit 
+
 Bharat Kumar Sharma
+
 Vikash Kumar Patel 
+
 Superviser- Dr. Sushil Kumar
